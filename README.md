@@ -1,4 +1,4 @@
-# Fermat Premining Redeemer
+# IoP Token Redeemer
 
 Redeems tokens that where sent with a time locked constraint as part of the premining distribution phase.
 
